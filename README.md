@@ -4,7 +4,7 @@ Create cheats with custom bypass methods to practice screensharing
 * Se debe ejecutar con permisos de administrador
 * Es recomendable tener el antivirus desactivado (recomendado, no necesario)
 
-*I'm too lazy and bat to write in English*
+*I'm too lazy and bad to write in English*
 
 Con este programa podrás crear un cheat para detectar en tu propio ordenador, tu lo personalizas y seleccionas métodos, está dirigido a los que están iniciando.
 
