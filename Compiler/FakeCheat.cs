@@ -6,6 +6,7 @@ class Program
 {
     static void Main()
     {
+        Console.Title = "Cheat Practice";
         // No editar esto
         foreach (Process process in Process.GetProcessesByName("taskmgr"))
         {
