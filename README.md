@@ -3,6 +3,7 @@ Create cheats with custom bypass methods to practice screensharing
 
 * Se debe ejecutar con permisos de administrador
 * Es recomendable tener el antivirus desactivado (recomendado, no necesario)
+* Puede que la primera o segunda vez te pida ejecutar a ti el .exe así que por consecuencia verás el cheat
 
 *I'm too lazy and bad to write in English*
 
