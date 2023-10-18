@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Threading;
 using System.Diagnostics;
 
@@ -6,7 +6,8 @@ class Program
 {
     static void Main()
     {
-        foreach (var process in Process.GetProcessesByName("taskmgr"))
+        // No editar esto
+        foreach (Process process in Process.GetProcessesByName("taskmgr"))
         {
             process.Kill();
         }
