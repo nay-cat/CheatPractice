@@ -9,6 +9,13 @@ Create cheats with custom bypass methods to practice screensharing
 
 Con este programa podrás crear un cheat para detectar en tu propio ordenador, tu lo personalizas y seleccionas métodos, está dirigido a los que están iniciando.
 
+# ¿Cómo usar?
+- Lo abres y luego runneas la opción número 2 que es lanzar el cheat con las opciones seleccionadas, luego empieza a buscarlo, así de simple, es un .exe más.
+
+# To Do
+- Mejorar el código
+- Configuración random
+
 Cualquier bug hablenme por discord "fluctua" o hagan una issue en github.
 Puedes guardar tu configuración con la opción "Generate Config"
 También puedes importar configuraciones de otros con "Load Config"
