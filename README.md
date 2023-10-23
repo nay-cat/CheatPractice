@@ -16,7 +16,7 @@ Con este programa podrás crear un cheat para detectar en tu propio ordenador, t
 - Archivo no encontrado : Abre y cierra el programa
 - Cheat not working : Ocurrió un error al ejecutar y crear el cheat, reabre el programa
 - Ruta no accesible : Vuelve a ejecutar el cheat con el 2, esto ocurre cuando el cheat se guarda en una ruta no permitida.
-- .dll faltantes : Se deberían instalar solos, si no ve a Compile y copia "ucrtbased.dll", "vcruntime140D.dll", "vcruntime140_1D.dll", "MSVCP140D.dll", luego pegalos en System32
+- .dll faltantes : Se deberían instalar solos, si no ve a la carpeta Compiler y copia "ucrtbased.dll", "vcruntime140D.dll", "vcruntime140_1D.dll", "MSVCP140D.dll", luego pegalos en System32
 
 # To Do
 - Mejorar el código
