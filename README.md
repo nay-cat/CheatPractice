@@ -36,7 +36,7 @@ También puedes importar configuraciones de otros con "Load Config"
 | Random Size                  | Da un peso al azar al cheat                               |
 | Change File Extension        | Cambia la extensión del archivo a una al azar             |
 | Change LastWrite Time        | Cambia la fecha del archivo                               |
-| String Cleaner               | Borra las strings en los servicios                        |
+| String Cleaner               | Borra las strings                        |
 | Delete Journal               | Borra journal                                             |
 | Random Common Cheat Strings  | Añade "strings" comunes al cheat                          |
 | Stop More Services           | Para servicios menos importantes                          |
